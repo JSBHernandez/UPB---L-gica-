@@ -1,0 +1,7 @@
+print("Digite la medida del lado de su hexágono")
+ld = float(input())
+print("Digite la medida del apotema de su hexágono:")
+ap = float(input())
+pm = (ld * 6)
+ar = ((pm * ap) / 2)
+print("El área de su hexágono es:",ar,"cm²")

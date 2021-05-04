@@ -1,0 +1,5 @@
+print("Escriba su nombre:")
+nombre = str(input())
+print("Escriba su calificativo:")
+calif = str(input())
+print(nombre, calif)

@@ -1,0 +1,8 @@
+print("Digite el primer número:")
+n1 = float(input())
+print("Digite el segundo número:")
+n2 = float(input())
+print("Digite el tercer número:")
+n3 = float(input())
+prom = ((n1 + n2 + n3) / 3)
+print("El promedio de los números es:",prom)

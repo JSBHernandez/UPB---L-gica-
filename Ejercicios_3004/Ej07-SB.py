@@ -1,0 +1,5 @@
+print("Digite el radio de su círculo:")
+r = int(input())
+a = (3.1416 * (r ** 2))
+p = (2 * 3.1416 * (r))
+print("El área es:",a,"cm² y el perímetro es:",p,"cm")
