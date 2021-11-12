@@ -1,0 +1,4 @@
+C:\Users\kevin\OneDrive\Documentos\Universidad\Proyecto visual studio\Empresa\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Universidad\Proyecto visual studio\Empresa\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
